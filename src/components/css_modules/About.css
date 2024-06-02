@@ -1,0 +1,87 @@
+.Container {
+    padding: 40px 60px;
+    background-color: #EFEFEF;
+  }
+  
+  .About {
+    text-align: left;
+    padding-bottom: 30px;
+  }
+  
+  .span-btn {
+    background: #D1D5DB;
+    border-radius: 8px;
+    width: 75px;
+    padding: 0.5rem 1rem;
+    height: 24px;
+    font-family: 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #374151;
+  }
+  
+  .container-pic {
+    width: 350px;
+    height: 380px;
+    filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.25));
+  }
+  
+  .background {
+    box-sizing: border-box;
+    position: absolute;
+    left: 15%;
+    right: 0;
+    top: 10%;
+    bottom: 0;
+    background: #D1D5DB;
+    border: 6px solid #FFFFFF;
+  }
+  
+  .pic {
+    box-sizing: border-box;
+    position: absolute;
+    left: 30px;
+    width: 350px;
+    height: 380px;
+    top: 5%;
+    background: url('D:/ReactPortfolio/portfolio/src/Assets/pic1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 6px solid #FFFFFF;
+  }
+  
+  .bg-pic {
+    width: 600px;
+    min-width: 460px;
+    height: 700px;
+  }
+  
+  .info {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+  
+  .info-text {
+    font-style: italic;
+  }
+  
+  .child {
+    display: flex;
+    gap: 30px;
+  }
+  
+  .bold {
+    width: 520px;
+    height: 40px;
+    font-family: 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -0.01em;
+  }
+  
