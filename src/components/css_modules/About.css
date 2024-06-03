@@ -47,7 +47,7 @@
     width: 350px;
     height: 380px;
     top: 5%;
-    background: url('D:/ReactPortfolio/portfolio/src/Assets/pic1.jpg');
+    background: url('../../Assets/pic1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     border: 6px solid #FFFFFF;
